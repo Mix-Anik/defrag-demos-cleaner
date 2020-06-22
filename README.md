@@ -1,5 +1,5 @@
 # Defrag Demos Сleaner
-<img src="https://mysolar.ee/wp-content/uploads/2019/09/Button-Flag-Russia-256x256.png" width="24" height="24"/>
+<img src="pictures/dflogo.png" width="24" height="24"/>
 
 Software was meant for helping in managing your defrag's demos folder easily.  
 Sometimes it gets *really messy* there and could cause lags if no action was taken in time.  

@@ -1,5 +1,5 @@
 # Defrag Demos Сleaner
-<img src="pictures/dflogo.png" width="400" height="120"/>
+<img src="pictures/dflogo.jpg" width="400" height="120"/>
 
 Software was meant for helping in managing your defrag's demos folder easily.  
 Sometimes it gets *really messy* there and could cause lags if no action was taken in time.  

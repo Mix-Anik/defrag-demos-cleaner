@@ -4,7 +4,7 @@
 Software was meant for helping in managing your defrag's demos folder easily.  
 Sometimes it gets *really messy* there and could cause lags if no action was taken in time.  
 With **DDCleaner** your demos managment will narrow down to **few clicks**!  
-[Download Now](https://github.com/Mix-Anik/defrag-demos-cleaner/releases)
+[Download Now / Скачать](https://github.com/Mix-Anik/defrag-demos-cleaner/releases)
 
 ## HOW TO USE [<img src="pictures/us.png" width="24" height="24"/>/<img src="pictures/ru.png" width="24" height="24"/>]
 
